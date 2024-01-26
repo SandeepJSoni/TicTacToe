@@ -1,6 +1,6 @@
-* Tic Tac Toe (React)
+# Tic Tac Toe (React)
 
-Following instruction for React examples 
+Followed instruction in link below -  React - Learning examples 
 
 https://react.dev/learn/tutorial-tic-tac-toe
 
